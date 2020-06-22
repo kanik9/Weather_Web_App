@@ -50,7 +50,18 @@ Some Screen Shots of Weather App :
 7. Message Shown non existing City is added in database
 
    name : image_7
+   
+   
+   
+Important Instruction :
 
+1. Install Python 3.5+ : https://docs.python.org/3/
+
+2. Install Django 
+
+   pip install Django == 2.0
+   
+   
 
 
 
