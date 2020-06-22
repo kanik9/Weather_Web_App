@@ -24,7 +24,6 @@ Doc of Weather API : https://openweathermap.org/current#name
 Some Screen Shots of Weather App :
 
 1. Home Page 
-
 name : image_1
 
 2. Add New City
