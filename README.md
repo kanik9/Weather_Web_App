@@ -12,8 +12,8 @@ OpenWeatherMap is one of the leading digital weather information providers. We a
 of engineers and experts in Big Data, data processing, and satellite imagery processing. Our headquarters is in the UK, we have an 
 office in the USA, and the development team in Latvia (EU).
 
-                                                We have more than 2,000,000 users of our products and get around 2,000 new users every day. 
-We are reliable partners of Google who use OpenWeatherMap weather API in their AdWords for managing advertising campaigns.
+We have more than 2,000,000 users of our products and get around 2,000 new users every day.We are reliable partners of Google who use 
+OpenWeatherMap weather API in their AdWords for managing advertising campaigns.
 
 The OpenWeatherMap API is free to use; however, there are also paid plans available for developers that require higher levels of weather 
 data and support
