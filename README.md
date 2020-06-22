@@ -24,31 +24,32 @@ Doc of Weather API : https://openweathermap.org/current#name
 Some Screen Shots of Weather App :
 
 1. Home Page 
-name : image_1
+
+   name : image_1
 
 2. Add New City
 
-name : image_2
+   name : image_2
 
 3. Message Shown After the new City added in database
 
-name : image_3
+   name : image_3
 
 4. Add Existing City
 
-name : image_4
+   name : image_4
 
 5. Message Shown After the existing City added in database
 
-name : image_5
+   name : image_5
 
 6. Add City which not exist in world 
 
-name : image_6
+   name : image_6
 
 7. Message Shown non existing City is added in database
 
-name : image_7
+   name : image_7
 
 
 
